@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: rg-eshoponweb
   LOCATION: westus3
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: Yf9edb370-ffa5-431e-8e8e-428e213f0b0b
-  WEBAPP-NAME: eshoponweb-webapp-kitty
+  SUBSCRIPTION-ID: f9edb370-ffa5-431e-8e8e-428e213f0b0b
+  WEBAPP-NAME: eshoponweb-webapp
 
 jobs:
   #Build, test and publish .net web project in repository
